@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #434343;
+}
+.css-13cymwt-control {
+  background: transparent !important;
+  cursor: pointer !important;
+}
+.css-13cymwt-control :focus {
+  outline: none !important;
+}
